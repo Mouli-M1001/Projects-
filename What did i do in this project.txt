@@ -1,6 +1,0 @@
-"Unified Business Insights Dashboard"
-
-
-In this dashboard project, I performed a complete end-to-end data preparation and reporting workflow. I optimized the dataset by removing unnecessary columns and created time-based fields such as Year and Quarter to enable periodical trend analysis. I developed additional conditional and categorical columns to enhance segmentation and built a set of meaningful measures for deeper insights.
-
-For visual analytics, I used a mix of charts—including stacked bar charts, funnel, pie, donut, line charts, and matrix tables—to provide a detailed and granular view of business performance. The report also includes page navigation using buttons, drill-through functionality for detail-level exploration, and dynamic titles that change based on user selections, resulting in an interactive and user-friendly dashboard experience.
